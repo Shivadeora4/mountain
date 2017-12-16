@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coins
+  - enemy
+  - Goli
+  - Collidable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Goli
+  - Player
+  - enemy
+  - Fuel1
+  - Coins
+  - ground
+  - khatma
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Platform
+    uniqueID: 1233464233
+    locked: 0
+  - name: Trees
+    uniqueID: 3114447133
+    locked: 0
+  - name: life
+    uniqueID: 259267239
+    locked: 0
+  - name: Mountains
+    uniqueID: 1598271145
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Car
+    uniqueID: 3551645197
+    locked: 0
